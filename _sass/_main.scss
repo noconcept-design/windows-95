@@ -228,12 +228,30 @@ ul.topbar {
 		font-size: 20px;
 		font-weight: 700;
 		margin: 50px 0 10px 0;
+		color: red;
 	}
 
 	h2 {
 		font-size: 18px;
 		font-weight: 700;
 		margin: 25px 0 5px 0;
+		color: orangered
+	}
+
+	h3 {
+		color: orange;
+	}
+
+	h4 {
+		color: gray;
+	}
+
+	h5 {
+		color: purple;
+	}
+
+	h6 {
+		color: pink;
 	}
 
 	em {
@@ -244,6 +262,7 @@ ul.topbar {
 		padding: 0 0 0 15px;
 		margin: 15px 5px;
 		border-left: 8px solid #000000;
+		color: greenyellow
 	}
 
 	strong {
@@ -258,6 +277,7 @@ ul.topbar {
 	ul {
 		list-style: square;
 		margin: 0 0 15px 30px;
+		color: black;
 
 		li {
 			padding: 5px;
@@ -275,6 +295,7 @@ ul.topbar {
 	ol {
 		list-style: decimal-leading-zero;
 		margin: 0 0 15px 30px;
+		color: black;
 
 		li {
 			padding: 5px;

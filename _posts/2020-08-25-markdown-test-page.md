@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Markdown How TO"
-tags: 
+title: "Markdown schreiben"
+tags: blog
 ---
 
-## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
+## Quelle: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
 
-# <a name="top"></a>Markdown Test Page
+# <a name="top"></a>Markdown schnellstart
 
 * [Überschriften](#Headings)
 * [Absätze](#Paragraphs)
@@ -21,34 +21,34 @@ tags:
 
 # <a name="Headings"></a>Überschriften
 
-# Überschrift eins 
+# Überschrift eins - mit \#
 
 Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem. Ut laborum cillum laboris fugiat culpa sint irure do reprehenderit culpa occaecat. Exercitation esse mollit tempor magna aliqua in occaecat aliquip veniam reprehenderit nisi dolor in laboris dolore velit.
 
-## Überschrift zwei
+## Überschrift zwei - mit \##
 
 Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim. Incididunt enim excepteur do veniam consequat culpa do voluptate dolor fugiat ad adipisicing sit. Labore officia est adipisicing dolore proident eiusmod exercitation deserunt ullamco anim do occaecat velit. Elit dolor consectetur proident sunt aliquip est do tempor quis aliqua culpa aute. Duis in tempor exercitation pariatur et adipisicing mollit irure tempor ut enim esse commodo laboris proident. Do excepteur laborum anim esse aliquip eu sit id Lorem incididunt elit irure ea nulla dolor et. Nulla amet fugiat qui minim deserunt enim eu cupidatat aute officia do velit ea reprehenderit.
 
-### Überschrift drei
+### Überschrift drei - mit \###
 
 Voluptate cupidatat cillum elit quis ipsum eu voluptate fugiat consectetur enim. Quis ut voluptate culpa ex anim aute consectetur dolore proident voluptate exercitation eiusmod. Esse in do anim magna minim culpa sint. Adipisicing ipsum consectetur proident ullamco magna sit amet aliqua aute fugiat laborum exercitation duis et.
 
-#### Überschrift vier
+#### Überschrift vier - mit \####
 
 Commodo fugiat aliqua minim quis pariatur mollit id tempor. Non occaecat minim esse enim aliqua adipisicing nostrud duis consequat eu adipisicing qui. Minim aliquip sit excepteur ipsum consequat laborum pariatur excepteur. Veniam fugiat et amet ad elit anim laborum duis mollit occaecat et et ipsum et reprehenderit. Occaecat aliquip dolore adipisicing sint labore occaecat officia fugiat. Quis adipisicing exercitation exercitation eu amet est laboris sunt nostrud ipsum reprehenderit ullamco. Enim sint ut consectetur id anim aute voluptate exercitation mollit dolore magna magna est Lorem. Ut adipisicing adipisicing aliqua ullamco voluptate labore nisi tempor esse magna incididunt.
 
-##### Überschrift fünf
+##### Überschrift fünf - mit \#####
 
 Veniam enim esse amet veniam deserunt laboris amet enim consequat. Minim nostrud deserunt cillum consectetur commodo eu enim nostrud ullamco occaecat excepteur. Aliquip et ut est commodo enim dolor amet sint excepteur. Amet ad laboris laborum deserunt sint sunt aliqua commodo ex duis deserunt enim est ex labore ut. Duis incididunt velit adipisicing non incididunt adipisicing adipisicing. Ad irure duis nisi tempor eu dolor fugiat magna et consequat tempor eu ex dolore. Mollit esse nisi qui culpa ut nisi ex proident culpa cupidatat cillum culpa occaecat anim. Ut officia sit ea nisi ea excepteur nostrud ipsum et nulla.
 
-###### überschrift sechs
+###### überschrift sechs - mit NA?
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 [[Top]](#top)
 
-# <a name="Paragraphs"></a>Absätze
+# <a name="Paragraphs"></a>Absätze - Text schreiben und Leertaste (benötigt etwas Übung) ... dazu einlesen oder probieren
 
 Incididunt ex adipisicing ea ullamco consectetur in voluptate proident fugiat tempor deserunt reprehenderit ullamco id dolore laborum. Do laboris laboris minim incididunt qui consectetur exercitation adipisicing dolore et magna consequat magna anim sunt. Officia fugiat Lorem sunt pariatur incididunt Lorem reprehenderit proident irure. Dolore ipsum aliqua mollit ad officia fugiat sit eu aliquip cupidatat ipsum duis laborum laborum fugiat esse. Voluptate anim ex dolore deserunt ea ex eiusmod irure. Occaecat excepteur aliqua exercitation aliquip dolor esse eu eu.
 
@@ -58,7 +58,7 @@ Officia irure in non voluptate adipisicing sit amet tempor duis dolore deserunt 
 
 [[Top]](#top)
 
-# <a name="Blockquotes"></a>Zitate
+# <a name="Blockquotes"></a>Zitate - mit \>
 
 Ad nisi laborum aute cupidatat magna deserunt eu id laboris id. Aliquip nulla cupidatat sint ex Lorem mollit laborum dolor amet est ut esse aute. Nostrud ex consequat id incididunt proident ipsum minim duis aliqua ut ex et ad quis. Laborum sint esse cillum anim nulla cillum consectetur aliqua sit. Nisi excepteur cillum labore amet excepteur commodo enim occaecat consequat ipsum proident exercitation duis id in.
 
@@ -76,9 +76,9 @@ Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat v
 
 [[Top]](#top)
 
-# <a name="Lists"></a>Listen
+# <a name="Lists"></a>Listen 
 
-### Geordnete Liste
+### Geordnete Liste - mit 1. blah , 2 blah. , 3. blah usw. (untereinander)
 
 1. Longan
 2. Lychee
@@ -92,7 +92,7 @@ Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat v
 6. Miracle fruit
 7. Mulberry
 
-### Ungeordnete Liste
+### Ungeordnete Liste - mit \- blah, \+ blah, oder \* blah (untereinander) für die nächste Ebene 4x Leertaste unter dem Elternelement. 
 
 - Olive
 - Orange
@@ -104,7 +104,7 @@ Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat v
 
 [[Top]](#top)
 
-# <a name="Horizontal"></a>Querbalken
+# <a name="Horizontal"></a>Querbalken - mit \***
 
 In dolore velit aliquip labore mollit minim tempor veniam eu veniam ad in sint aliquip mollit mollit. Ex occaecat non deserunt elit laborum sunt tempor sint consequat culpa culpa qui sit. Irure ad commodo eu voluptate mollit cillum cupidatat veniam proident amet minim reprehenderit.
 
@@ -114,7 +114,7 @@ In laboris eiusmod reprehenderit aliquip sit proident occaecat. Non sit labore a
 
 [[Top]](#top)
 
-# <a name="Table"></a>Tabelle
+# <a name="Table"></a>Tabelle - ok da einlesen ;-)
 
 Duis sunt ut pariatur reprehenderit mollit mollit magna dolore in pariatur nulla commodo sit dolor ad fugiat. Laboris amet ea occaecat duis eu enim exercitation deserunt ea laborum occaecat reprehenderit. Et incididunt dolor commodo consequat mollit nisi proident non pariatur in et incididunt id. Eu ut et Lorem ea ex magna minim ipsum ipsum do.
 
@@ -132,11 +132,11 @@ Minim id consequat adipisicing cupidatat laborum culpa veniam non consectetur et
 
 # <a name="Code"></a>Code
 
-## Inline code
+## Inline code - mit \` am Anfang und ein \` am Ende des Codes
 
 Ad amet irure est magna id mollit Lorem in do duis enim. Excepteur velit nisi magna ea pariatur pariatur ullamco fugiat deserunt sint non sint. Duis duis est `code in text` velit velit aute culpa ex quis pariatur pariatur laborum aute pariatur duis tempor sunt ad. Irure magna voluptate dolore consectetur consectetur irure esse. Anim magna `<strong>in culpa qui officia</strong>` dolor eiusmod esse amet aute cupidatat aliqua do id voluptate cupidatat reprehenderit amet labore deserunt.
 
-## Highlighted
+## Highlighted - mit \`\`\` am Anfang und \`\`\` am Ende .. zusätzlich kann am Anfang nach den ersten drei apostrophen noch die Sprache z.b. \`\`\`html angegeben werden.
 
 Et fugiat ad nisi amet magna labore do cillum fugiat occaecat cillum Lorem proident. In sint dolor ullamco ad do adipisicing amet id excepteur Lorem aliquip sit irure veniam laborum duis cillum. Aliqua occaecat minim cillum deserunt magna sunt laboris do do irure ea nostrud consequat ut voluptate ex.
 
@@ -162,11 +162,11 @@ Ex amet id ex aliquip id do laborum excepteur exercitation elit sint commodo occ
 
 [[Top]](#top)
 
-# <a name="Inline"></a>Inline Elemente
+# <a name="Inline"></a>Inline Elemente - Fett mit \** kursiv mit \* muss nach dem Wort oder der Passage auch wieder mit dem entsprechdenen sternchen beendet werden. Bilder \![Titel](bildAdresse) - Links \[SeitenName](https://blabla.bla)
 
 Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim ad labore sunt. Minim deserunt labore laboris velit nulla incididunt ipsum nulla. Ullamco ad laborum ea qui et anim in laboris exercitation tempor sit officia laborum reprehenderit culpa velit quis. **Consequat commodo** reprehenderit duis [irure](#!) esse esse exercitation minim enim Lorem dolore duis irure. Nisi Lorem reprehenderit ea amet excepteur dolor excepteur magna labore proident voluptate ipsum. Reprehenderit ex esse deserunt aliqua ea officia mollit Lorem nulla magna enim. Et ad ipsum labore enim ipsum **cupidatat consequat**. Commodo non ea cupidatat magna deserunt dolore ipsum velit nulla elit veniam nulla eiusmod proident officia.
 
-![Super wide](http://placekitten.com/1280/800)
+![Super wide](http://placekitten.com/1280/800) 
 
 *Proident sit veniam in est proident officia adipisicing* ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
 
