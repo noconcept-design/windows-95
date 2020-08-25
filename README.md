@@ -1,6 +1,6 @@
 # Windows 95 Theme for Jekyll
 
-![ss](https://github.com/noconcept-design/windows-95/tree/master/assets/img/ss.png)
+![ss](https://github.com/noconcept-design/windows-95/blob/master/assets/img/ss.png)
 
 Homepage: [Windows 95](https://github.com/noconcept-design/windows-95)
 
