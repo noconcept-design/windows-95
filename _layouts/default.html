@@ -4,9 +4,10 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-	<meta author="Th. O" />
-	<meta property="og:image" content="/assets/img/canvas/canvas.png" />
+	<meta author="Thorsten OJE" />
+	<meta property="og:image" content="/assets/img/canvas/car.png" />
 	<link rel="stylesheet" href="/assets/css/atom-one-light.css">
+	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
     {% if page.title or page.title == 'me' %}
         <title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/002.css">
@@ -14,13 +15,15 @@
         <title>{{ site.name }}</title>
 		<link rel="stylesheet" type="text/css" href="/assets/css/001.css">
 		{% endif %}
-		<link rel="shortcut icon" href="/assets/icons/computer-3.png" type="image/png">
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">	
-	<link rel="stylesheet" href="/assets/css/font-awesome.min.css">
+	<link rel="shortcut icon" href="/assets/icons/computer-3.png" type="image/png">
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/assets/css/win95.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
+
 	<link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
 	<script src="/assets/js/highlight.pack.js"></script>
+	<script src="/assets/js/Ai2CanvasAnimation.js"></script>
 	<script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body>
@@ -93,14 +96,49 @@
 				{% endif %}
 			</div>
 		</div>
-    {% endif %}
+		{% endif %}
+		<div class="container alert center">
+		<div class="alert alert-danger">Dieses Windows befindet sich momentan unter heftiger Bearbeitung! ;-)</div>
+		</div>
+
+		<footer class="taskbar">
+      <div class="row" style="margin-right: 0px;">
+          <div class="col-8">
+              <a href="https://ooo.ejo.ooo-training-ooo.oje.ooo/" target="_blank" class="btn start-button"><img src="/assets/icons/users-1.png" class="icon-16">Author</a>
+							<a href="https://github.com/noconcept-design" target="_blank" class="btn start-button"><img src="/assets/icons/directory_folder_options-5.png" class="icon-16"> GitHub</a>
+							<a href="#" id="changePreferences" class="btn start-button"><img src="/assets/icons/msagent-3.png" class="icon-16">Cookies</a>
+						</div>
+          <div class="col-4 time">By THO</div>
+      </div>    
+  </footer>
+
+
+	<div class="footer">
+		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | modified by <a href="https://github.com/noconcept-design" target="_blank">noconcept.design</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
+	</div>
+
+	<script type="text/javascript" src="//www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
+	<script src="/assets/js/cookie.js"></script>
+
+	<!--jQuery-->
+	<script type="text/plain" cookie-consent="functionality" src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<!-- end of jQuery-->
+	
+	<!-- popper.js -->
+	<script type="text/plain" cookie-consent="functionality" src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<!-- end of popper.js-->
+	
+	<!-- bootstrap -->
+	<script type="text/plain" cookie-consent="functionality" src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	<!-- end of bootstrap-->
+	
+	<noscript>ePrivacy and GPDR Cookie Consent by <a href="https://www.CookieConsent.com/" rel="nofollow noopener">Cookie Consent</a></noscript>
+	<!-- End Cookie Consent by https://www.CookieConsent.com --> 
+	
+	<!-- custom -->
+		
 	<script src="/assets/js/001.js"></script>
 	<script src="/assets/js/002.js"></script>
-	<div class="footer">
-		<p>Created by <a href="http://github.com/h01000110" target="_blank">h01000110 (hi)</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
-	</div>
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
 </body>
 </html>

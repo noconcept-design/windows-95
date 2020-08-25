@@ -142,7 +142,8 @@ Scrollbar (only chrome & safari)
     Button styles
 
 */
-.btn{
+/* 
+.btn {
     border-width: 2px;
     border-style: outset;
     border-color: buttonface;
@@ -192,6 +193,8 @@ button:focus{
     color: grey;
     text-shadow: 1px 1px #fff;
 }
+
+*/
 
 /*
 

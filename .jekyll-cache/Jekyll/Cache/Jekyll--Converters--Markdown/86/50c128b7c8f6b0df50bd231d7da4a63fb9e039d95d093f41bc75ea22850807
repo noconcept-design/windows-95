@@ -1,0 +1,20 @@
+I"œ<p>Thorsten OJE</p>
+
+<p>Born in the 70thâ€™s - Hessen - Germany</p>
+
+<p>I am a trained electrician but never worked in this job.</p>
+
+<p>I had a job over 20 years at a big financial institute.</p>
+
+<figure class="figure">
+<img class="img-fluid" src="/assets/img/to-logo.png" style="width: 30%; cursor:zoom-in" onclick="document.getElementById('modal1').style.display='block'" />
+<figcaption class="figure-caption">Click to enlarge.</figcaption>
+</figure>
+
+<div id="modal1" class="aboutModal" onclick="this.style.display='none'">
+  <div class="aboutModal-content aboutModal-animate-zoom">
+    <img src="/assets/img/to-logo.png" style="width: 100%;" />
+  </div>
+</div>
+
+:ET

@@ -1,11 +1,11 @@
-tag1:
+projects:
   name: projects
 
-tag2:
+scripts:
   name: scripts
 
-tag3:
+blog:
   name: blog
 
-tag4:
-  name: stuff
+canvas:
+  name: canvas
